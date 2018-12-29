@@ -1,0 +1,2 @@
+# OAuth2ResourceServer_ClientCredentials
+OAuth2ResourceServer using ClientCredentials
